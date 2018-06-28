@@ -1,0 +1,5 @@
+21:54:23.373404   B 38:a4:ed:e1:ac:7f ethertype ARP (0x0806), length 44: Request who-has 192.168.43.135 tell 192.168.43.1, length 28
+21:54:23.373426 Out 30:f7:72:29:e1:d3 ethertype ARP (0x0806), length 44: Reply 192.168.43.135 is-at 30:f7:72:29:e1:d3, length 28
+21:54:28.531525 Out 30:f7:72:29:e1:d3 ethertype ARP (0x0806), length 44: Request who-has 192.168.43.1 tell 192.168.43.135, length 28
+21:54:28.533283  In 38:a4:ed:e1:ac:7f ethertype ARP (0x0806), length 44: Reply 192.168.43.1 is-at 38:a4:ed:e1:ac:7f, length 28
+21:54:36.943165   B 38:a4:ed:e1:ac:7f ethertype ARP (0x0806), length 44: Request who-has 192.168.43.135 tell 192.168.43.1, length 28
